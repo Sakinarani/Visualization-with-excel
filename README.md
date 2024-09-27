@@ -19,8 +19,7 @@ An inventory management system designed to monitor stock levels and movements in
   Real-time inventory monitoring
   Stock movement recording for clear records
  Automated alerts for low stock and detailed analysis reports
- 
-** 3. Dynamic Pricing Strategy**
+ **3. Dynamic Pricing Strategy**
     
 A dynamic pricing model that adjusts prices based on market conditions, competitor pricing, and consumer behavior. This project highlights my understanding of pricing strategies and their impact on revenue.
 
